@@ -1,0 +1,2 @@
+com.squareup.sqldelight
+com.thoughtworks.gauge
